@@ -1,0 +1,12 @@
+/* Variables */
+
+/* globals */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* hidding mobile image on desktop */
+.content2 .img-mobile {
+    display: none;
+}
