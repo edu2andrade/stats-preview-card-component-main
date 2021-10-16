@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/baseapparelcomingsoon-xKcMC5emx)
-- Live Site URL: [Vercel](https://base-apparel-coming-soon-master-umber.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/statspreviewcardcomponent-using-flexbox-jsScnqmof)
+- Live Site URL: [Vercel](https://stats-preview-card-component-main-lo27gv5ts-edu2andrade.vercel.app/)
 
 ### Built with
 
